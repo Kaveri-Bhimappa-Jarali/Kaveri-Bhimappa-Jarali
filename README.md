@@ -70,7 +70,7 @@ Government High School, Bastawad
 
 ## 📫 Contact Me
 📧 Email: kaveribhimappajarali@gmail.com  
-🔗 LinkedIn: *(add your LinkedIn profile link here)*  
+🔗 LinkedIn: https://www.linkedin.com/in/kaveri-jarali-99bb41293
 
 ---
 
