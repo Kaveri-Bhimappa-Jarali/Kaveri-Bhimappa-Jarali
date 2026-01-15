@@ -45,6 +45,26 @@ Government High School, Bastawad
 
 ---
 
+## 🚀 Projects
+
+### 🔹 Qwerty.I/O – Technical Team Website  
+**Tech Stack:** MERN Stack  
+- Contributed to building and deploying the official technical team website with responsive UI and backend integration.
+
+### 🔹 Personal Portfolio Website  
+**Tech Stack:** MERN Stack  
+- Designed and developed a personal portfolio to showcase skills, projects, and achievements.
+
+### 🔹 Indian Sign Language Detection  
+**Tech Stack:** Python, Machine Learning  
+- Developed a real-time system to recognize Indian Sign Language gestures using ML techniques.
+
+### 🔹 Telephone Directory Maintenance System  
+**Tech Stack:** C, File Handling  
+- Built a menu-driven system for managing contact records using file handling in C.
+
+---
+
 ## 📜 Certifications
 
 🏅 **Infosys Springboard**  
