@@ -52,40 +52,21 @@ Always eager to learn, build impactful solutions, and contribute to real-world p
 
 ## 🚀 Projects
 
-### 🟦 Qwerty.I/O – Technical Team Website  
+### 🔹 Qwerty.I/O – Technical Team Website  
 **Tech Stack:** MERN Stack  
-📌 *Official technical team website*
+- Developed responsive UI components and assisted in backend integration.
 
-- Developed and deployed responsive UI components using React.js  
-- Integrated backend APIs with Node.js and Express.js  
-- Collaborated in a real-world team environment  
-
----
-
-### 🟦 Personal Portfolio Website  
+### 🔹 Personal Portfolio Website  
 **Tech Stack:** MERN Stack  
-📌 *Personal portfolio to showcase skills and projects*
+- Designed and implemented a full-stack personal portfolio website.
 
-- Designed a modern, responsive portfolio interface  
-- Implemented full-stack architecture for scalability  
-
----
-
-### 🟦 Indian Sign Language Detection System  
+### 🔹 Indian Sign Language Detection System  
 **Tech Stack:** Python, Machine Learning  
-📌 *Real-time gesture recognition system*
+- Built and trained an ML model for real-time sign language recognition.
 
-- Built an ML model to recognize Indian Sign Language gestures  
-- Worked on data preprocessing and real-time prediction  
-
----
-
-### 🟦 Telephone Directory Maintenance System  
+### 🔹 Telephone Directory Maintenance System  
 **Tech Stack:** C, File Handling  
-📌 *Menu-driven contact management system*
-
-- Implemented file handling for storing and managing contacts  
-- Strengthened understanding of structured programming concepts  
+- Implemented a menu-driven contact management system using file handling. 
 
 ---
 
