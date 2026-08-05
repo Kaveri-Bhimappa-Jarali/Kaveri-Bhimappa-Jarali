@@ -1,105 +1,152 @@
-<h1 align="center">Hi there 👋 I'm Kaveri Bhimappa Jarali</h1>
+<h1 align="center">Hi 👋, I'm Kaveri Jarali</h1>
+
+<h3 align="center">
+Software Engineering Enthusiast | Full Stack (MERN) Developer | AI & Machine Learning Enthusiast
+</h3>
 
 <p align="center">
-🎓 Computer Science & Engineering Student | 💻 Full-Stack Developer <br>
-🚀 Passionate about Web Development, Machine Learning & Problem Solving
-</p>
-
-<p align="center">
-Always eager to learn, build impactful solutions, and contribute to real-world projects through collaboration and continuous learning.
+Building scalable web applications and AI-powered solutions while pursuing a B.E. in Computer Science & Engineering.
 </p>
 
 ---
 
-## 🎓 Education
+## 🚀 About Me
 
-**Bachelor of Engineering – Computer Science and Engineering**  
-🏫 SDM College of Engineering and Technology, Dharwad  
-📅 Expected Graduation: **2027**  
-📊 CGPA: **9.96**
-
-**Pre-University Education (State Board)**  
-🏫 SDVS Sangh’s College, Sankeshwar  
-📊 Percentage: **95.36%**
-
-**Secondary Education (State Board)**  
-🏫 Government High School, Bastawad  
-📊 Percentage: **99.36%**
+- 🎓 Final-Year B.E. Computer Science & Engineering Student at **SDMCET, Dharwad**
+- 📈 CGPA: **9.96 / 10**
+- 💻 Full Stack (MERN) Developer
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🌱 Currently learning **Advanced MERN, System Design, DSA, and Cloud Technologies**
+- 👩‍💻 Interested in Software Engineering, Backend Development, and AI-driven Applications
+- 📍 Karnataka, India
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💼 Internship Experience
 
-### 👩‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Developer — Aartian Solutions
+- Developed MERN Stack modules and REST APIs supporting multiple application features.
+- Fixed production bugs and contributed to testing and application improvements.
+- Worked with React.js, Node.js, Express.js, and MongoDB.
+
+### 💻 Student Project Assignment Trainee — Entitysoft
+- Contributing to software development projects under industry mentorship.
+- Working with modern software development practices and Agile methodologies.
+
+### 💻 Technical Team Member — QWERTY.I/O
+- Collaborating on technical projects and community initiatives.
+- Contributing to web development and team-based software solutions.
+
+---
+
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🌐 Full Stack Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🤖 AI / ML
+
+- Machine Learning
+- OpenCV
+- MediaPipe
+- TensorFlow
+- FastAPI
+- NumPy
+- Pandas
+- Scikit-learn
+
+## 🛠️ Tools
+
+Git • GitHub • VS Code • Postman • Linux
 
 ---
 
-## 🚀 Projects
+# 🌟 Featured Projects
 
-### 🔹 Qwerty.I/O – Technical Team Website  
-**Tech Stack:** MERN Stack  
-- Developed responsive UI components and assisted in backend integration.
+## ✈️ WanderAI
+**AI-powered Travel Itinerary Optimization System**
 
-### 🔹 Personal Portfolio Website  
-**Tech Stack:** MERN Stack  
-- Designed and implemented a full-stack personal portfolio website.
-
-### 🔹 Indian Sign Language Detection System  
-**Tech Stack:** Python, Machine Learning  
-- Built and trained an ML model for real-time sign language recognition.
-
-### 🔹 Telephone Directory Maintenance System  
-**Tech Stack:** C, File Handling  
-- Implemented a menu-driven contact management system using file handling. 
+- Machine Learning-powered travel planner
+- FastAPI Backend
+- React Frontend
+- Google Maps Integration
+- Intelligent itinerary generation
 
 ---
 
-## 📜 Certifications
+## 🤟 Indian Sign Language Detection
 
-🏅 **Infosys Springboard**
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
-
-## 🌱 Currently Learning
-- Advanced MERN Stack Development  
-- Machine Learning & AI Concepts  
-- Data Structures and Algorithms  
+- Real-time hand gesture recognition
+- Python
+- OpenCV
+- MediaPipe
+- Deep Learning
 
 ---
 
-## 👯 Open to Collaborate On
-- Full-Stack Web Applications  
-- Open-Source Projects  
-- Innovative Problem-Solving Ideas  
+## 🌐 Personal Portfolio
+
+Modern Full Stack Portfolio showcasing:
+
+- Projects
+- Skills
+- Resume
+- Certifications
+- Internship Experience
 
 ---
 
-## 📫 Contact Me
+## ☎ Telephone Directory Management System
 
-📧 **Email:** kaveribhimappajarali@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/kaveri-jarali-99bb41293](https://www.linkedin.com/in/kaveri-jarali-99bb41293)
+- C Programming
+- File Handling
+- CRUD Operations
 
 ---
 
-<p align="center">
-⭐ Thank you for visiting my GitHub profile — let’s build something amazing together! 🚀
-</p>
+# 🏆 Achievements
+
+- 🎓 9.96 CGPA in B.E. Computer Science & Engineering
+- 💼 Multiple Software Development Internships
+- 🚀 Built AI & Full Stack Projects
+- 📜 Multiple Technical Certifications
+
+---
+
+# 📚 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Advanced MERN Stack
+- Cloud Computing
+- Artificial Intelligence
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+**kaveribhimappajarali@gmail.com**
+
+💼 **LinkedIn**
+https://linkedin.com/in/kaveri-jarali-99bb41293
+
+🌐 **Portfolio**
+https://portfoliofrontend-taupe-seven.vercel.app/
+
+💻 **GitHub**
+https://github.com/Kaveri-Bhimappa-Jarali/Kaveri-Bhimappa-Jarali/
+---
+
+⭐ *"Code. Learn. Build. Improve. Repeat."*
