@@ -8,38 +8,42 @@ Software Engineering Enthusiast | Full Stack (MERN) Developer | AI & Machine Lea
 Building scalable web applications and AI-powered solutions while pursuing a B.E. in Computer Science & Engineering.
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kaveri-Bhimappa-Jarali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Final-Year B.E. Computer Science & Engineering Student at **SDMCET, Dharwad**
 - 📈 CGPA: **9.96 / 10**
 - 💻 Full Stack (MERN) Developer
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning **Advanced MERN, System Design, DSA, and Cloud Technologies**
-- 👩‍💻 Interested in Software Engineering, Backend Development, and AI-driven Applications
+- 🌱 Currently learning **Advanced MERN, System Design, DSA, Cloud Computing & AI**
+- 👩‍💻 Interested in Software Engineering, Backend Development, and AI-powered Applications
 - 📍 Karnataka, India
 
 ---
 
-## 💼 Internship Experience
+# 💼 Internship Experience
 
 ### 💻 Developer — Aartian Solutions
 - Developed MERN Stack modules and REST APIs supporting multiple application features.
-- Fixed production bugs and contributed to testing and application improvements.
-- Worked with React.js, Node.js, Express.js, and MongoDB.
+- Resolved production bugs and improved application stability.
+- Worked with React.js, Node.js, Express.js, MongoDB, and Git.
 
 ### 💻 Student Project Assignment Trainee — Entitysoft
 - Contributing to software development projects under industry mentorship.
-- Working with modern software development practices and Agile methodologies.
+- Working with Agile methodologies and modern software engineering practices.
 
 ### 💻 Technical Team Member — QWERTY.I/O
 - Collaborating on technical projects and community initiatives.
-- Contributing to web development and team-based software solutions.
+- Contributing to frontend development and software solutions.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
 ## 👨‍💻 Languages
 
@@ -55,98 +59,143 @@ Building scalable web applications and AI-powered solutions while pursuing a B.E
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🤖 AI / ML
+## 🤖 AI / Machine Learning
 
 - Machine Learning
+- Deep Learning
+- TensorFlow
 - OpenCV
 - MediaPipe
-- TensorFlow
 - FastAPI
-- NumPy
-- Pandas
 - Scikit-learn
+- Pandas
+- NumPy
 
-## 🛠️ Tools
+## ⚙️ Tools & Platforms
 
-Git • GitHub • VS Code • Postman • Linux
+Git • GitHub • VS Code • Postman • Linux • Vercel
 
 ---
 
 # 🌟 Featured Projects
 
-## ✈️ WanderAI
-**AI-powered Travel Itinerary Optimization System**
+## ✈️ WanderAI – AI-Powered Travel Itinerary Optimization System
+**Tech Stack:** React.js • FastAPI • Python • Scikit-learn • Google Maps API
 
-- Machine Learning-powered travel planner
-- FastAPI Backend
-- React Frontend
-- Google Maps Integration
-- Intelligent itinerary generation
+An AI-powered travel planning platform that generates optimized itineraries using machine learning and intelligent route optimization.
+
+### Features
+- 🤖 AI-powered itinerary recommendation
+- 🗺️ Google Maps integration
+- 📍 Route optimization
+- ⚡ FastAPI backend
+- 💻 React frontend
+
+---
+
+## 📄 AI Resume Analyzer
+**Tech Stack:** React.js • Node.js • Express.js • Python • AI
+
+An intelligent resume analysis platform that evaluates resumes, provides AI-driven feedback, identifies missing skills, and helps users improve ATS compatibility for software engineering roles.
+
+### Features
+- 📄 Resume upload and analysis
+- 🤖 AI-generated resume feedback
+- 📊 ATS compatibility insights
+- 🎯 Skill gap identification
+- 💡 Resume improvement suggestions
 
 ---
 
 ## 🤟 Indian Sign Language Detection
+**Tech Stack:** Python • OpenCV • MediaPipe • TensorFlow • LSTM
 
-- Real-time hand gesture recognition
-- Python
-- OpenCV
-- MediaPipe
-- Deep Learning
+A real-time computer vision application that recognizes Indian Sign Language gestures and converts them into readable text.
+
+### Features
+- 🎥 Real-time gesture recognition
+- ✋ MediaPipe hand tracking
+- 🧠 Deep Learning (LSTM)
+- ♿ Accessibility-focused solution
 
 ---
 
-## 🌐 Personal Portfolio
+## 🌐 Personal Portfolio Website
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-Modern Full Stack Portfolio showcasing:
+A responsive full-stack portfolio showcasing projects, internships, technical skills, certifications, and achievements.
 
-- Projects
-- Skills
-- Resume
-- Certifications
-- Internship Experience
+### Features
+- 📱 Responsive design
+- 🚀 Project showcase
+- 📄 Resume section
+- 📬 Contact form
+
+---
+
+## 📚 QWERTY.I/O Technical Team Website
+**Tech Stack:** MERN Stack
+
+Contributed to the development of the technical team website by building responsive UI components and supporting backend integration.
 
 ---
 
 ## ☎ Telephone Directory Management System
+**Tech Stack:** C • File Handling
 
-- C Programming
-- File Handling
-- CRUD Operations
+A menu-driven desktop application for managing contacts using file handling.
+
+### Features
+- ➕ Add contacts
+- ✏️ Update contacts
+- 🔍 Search records
+- ❌ Delete contacts
+- 💾 Persistent file storage
 
 ---
 
 # 🏆 Achievements
 
-- 🎓 9.96 CGPA in B.E. Computer Science & Engineering
-- 💼 Multiple Software Development Internships
-- 🚀 Built AI & Full Stack Projects
-- 📜 Multiple Technical Certifications
+- 🎓 Maintaining a **9.96 CGPA** in Computer Science & Engineering
+- 💼 Completed multiple Software Development internships
+- 🤖 Built AI-powered applications using Machine Learning and Computer Vision
+- 🌐 Developed Full Stack applications using the MERN Stack
+- 📜 Earned certifications in Software Engineering, AI, and Web Development
+- 🚀 Active Technical Team Member at QWERTY.I/O
 
 ---
 
 # 📚 Currently Learning
 
-- Data Structures & Algorithms
+- Advanced Data Structures & Algorithms
 - System Design
+- Cloud Computing (Azure)
 - Advanced MERN Stack
-- Cloud Computing
 - Artificial Intelligence
+- Software Design Patterns
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email**
-**kaveribhimappajarali@gmail.com**
+<p align="left">
+<a href="mailto:kaveribhimappajarali@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 **LinkedIn**
-https://linkedin.com/in/kaveri-jarali-99bb41293
+<a href="https://www.linkedin.com/in/kaveri-jarali-99bb41293">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 **Portfolio**
-https://portfoliofrontend-taupe-seven.vercel.app/
+<a href="https://portfoliofrontend-taupe-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-💻 **GitHub**
-https://github.com/Kaveri-Bhimappa-Jarali/Kaveri-Bhimappa-Jarali/
+<a href="https://github.com/Kaveri-Bhimappa-Jarali">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 ---
 
-⭐ *"Code. Learn. Build. Improve. Repeat."*
+⭐ **"Code. Learn. Build. Improve. Repeat."**
