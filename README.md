@@ -4,9 +4,9 @@
 
 I'm a Computer Science and Engineering undergraduate at **SDM College of Engineering and Technology, Dharwad**, passionate about building reliable full-stack applications and AI-powered solutions. I enjoy solving real-world problems through software development, machine learning, and computer vision.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaveri-Bhimappa-Jarali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kaveri-Bhimappa-Jarali&label=Profile%20Views&color=0e75b6&style=flat-square)
+
 
 ---
 
